@@ -1,18 +1,13 @@
 import "./App.css";
 import paul from "./images/paul.JPG";
 import "bootstrap/dist/css/bootstrap.min.css";
-import { Button } from "react-bootstrap";
+import { Button, Card, Image } from "react-bootstrap";
 
 function App() {
   return (
-    <div className="App">
-      <Button type="button" class="btn btn-primary">
-        Button
-      </Button>
-      This is an App
-      <br />
-      <img src={paul} alt="NoImg" />
-    </div>
+    <Card style={{ width: "80px" }}>
+      <Card.Img variant="bottom rounded" src={paul} />
+    </Card>
   );
 }
 
