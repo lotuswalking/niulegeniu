@@ -1,0 +1,110 @@
+{
+  "picList": [
+    {
+      "index": 0,
+      "name": "Arlene",
+      "imgSrc": "West.png",
+      "audioSrc": "Araceli.mp3",
+      "count": 0
+    },
+    {
+      "index": 1,
+      "name": "Morgan",
+      "imgSrc": "Nadia.png",
+      "audioSrc": "Brock.mp3",
+      "count": 0
+    },
+    {
+      "index": 2,
+      "name": "Norton",
+      "imgSrc": "Wood.png",
+      "audioSrc": "Richards.mp3",
+      "count": 0
+    },
+    {
+      "index": 3,
+      "name": "Wilda",
+      "imgSrc": "Hayden.png",
+      "audioSrc": "Simpson.mp3",
+      "count": 0
+    },
+    {
+      "index": 4,
+      "name": "Ladonna",
+      "imgSrc": "Larson.png",
+      "audioSrc": "Isabel.mp3",
+      "count": 0
+    },
+    {
+      "index": 5,
+      "name": "Hardin",
+      "imgSrc": "Naomi.png",
+      "audioSrc": "Luisa.mp3",
+      "count": 0
+    },
+    {
+      "index": 6,
+      "name": "Celeste",
+      "imgSrc": "Landry.png",
+      "audioSrc": "Brigitte.mp3",
+      "count": 0
+    },
+    {
+      "index": 7,
+      "name": "Knowles",
+      "imgSrc": "Melton.png",
+      "audioSrc": "Salazar.mp3",
+      "count": 0
+    }
+  ],
+  "maps": [
+    {
+      "index": 0,
+      "size": [6, 6]
+    },
+    {
+      "index": 1,
+      "size": [6, 7]
+    },
+    {
+      "index": 2,
+      "size": [6, 7]
+    },
+    {
+      "index": 3,
+      "size": [6, 6]
+    },
+    {
+      "index": 4,
+      "size": [6, 7]
+    },
+    {
+      "index": 5,
+      "size": [7, 7]
+    },
+    {
+      "index": 6,
+      "size": [6, 6]
+    },
+    {
+      "index": 7,
+      "size": [7, 7]
+    },
+    {
+      "index": 8,
+      "size": [7, 7]
+    },
+    {
+      "index": 9,
+      "size": [7, 7]
+    },
+    {
+      "index": 10,
+      "size": [7, 6]
+    },
+    {
+      "index": 11,
+      "size": [7, 6]
+    }
+  ]
+}
